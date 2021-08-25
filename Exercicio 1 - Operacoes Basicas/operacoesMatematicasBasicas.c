@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int operacoesBasicas() {
+int operacoesMatematicasBasicas() {
 
 int subtracao();
 int multiplicacao();
